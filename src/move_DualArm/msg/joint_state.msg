@@ -1,0 +1,14 @@
+float32 r_sh_roll
+float32 r_sh_pitch
+float32 r_sh_yaw
+float32 r_el_pitch
+float32 r_wri_roll
+float32 r_wri_pitch
+float32 r_wri_yaw
+float32 l_sh_roll
+float32 l_sh_pitch
+float32 l_sh_yaw
+float32 l_el_pitch
+float32 l_wri_roll
+float32 l_wri_pitch
+float32 l_wri_yaw

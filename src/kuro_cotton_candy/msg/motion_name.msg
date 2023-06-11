@@ -1,0 +1,2 @@
+string now_motion_name
+string before_motion_name

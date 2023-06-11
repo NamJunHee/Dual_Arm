@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<package>
+  <name>cv_skel_cam</name>
+  <version>0.1.0</version>
+  <description>
+
+     cv_skel_cam
+
+  </description>
+  <maintainer email="freesun@gmail.com">freesun</maintainer>
+  <author>freesun</author>
+  <license>BSD</license>
+  <!-- <url type="bugtracker">https://github.com/stonier/qt_ros/issues</url> -->
+  <!-- <url type="repository">https://github.com/stonier/qt_ros</url> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>qt_build</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>libqt4-dev</build_depend>
+
+  <build_depend>libopenni2-dev</build_depend>
+  <build_depend>libusb-1.0-dev</build_depend>
+<!--  <build_depend>libopenni-nite-dev</build_depend> -->
+  <build_depend>libopenni-sensor-primesense-dev</build_depend> -->
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>orocos_kdl</build_depend>
+  <build_depend>roslib</build_depend>
+  <build_depend>tf</build_depend>
+
+
+
+  <run_depend>qt_build</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>libqt4-dev</run_depend>
+
+  <run_depend>libopenni2-dev</run_depend>
+  <run_depend>libusb-1.0-dev</run_depend>
+<!--  <run_depend>libopenni-nite-dev</run_depend> -->
+  <run_depend>libopenni-sensor-primesense-dev</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>orocos_kdl</run_depend>
+  <run_depend>roslib</run_depend>
+  <run_depend>tf</run_depend>
+
+ 
+</package>
